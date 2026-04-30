@@ -8,7 +8,7 @@
 
 </div>
 
-### Organization history 🏋️‍♀️
+### Organization history 🎇
 
 * 멋쟁이사자처럼 13기 대표 `(2025.01 ~ 2025.12)`
   * Java · Spring Boot 교육 세션 운영과 동아리 조직 운영 담당.
