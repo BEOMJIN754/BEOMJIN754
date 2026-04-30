@@ -73,12 +73,12 @@
 
 <div align="center">
 
-### Activity 🌱
+### <div align="center">Activity 🌱</div>
 
 <div align="center">
 
-<img height="170" src="https://streak-stats.demolab.com?user=BEOMJIN754&theme=default&hide_border=true&border_radius=12&ring=0969DA&fire=0969DA&currStreakNum=0969DA&sideNums=0969DA&currStreakLabel=0969DA&sideLabels=0969DA&dates=1F6F8B" />&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=BEOMJIN754&show_icons=true&theme=default&hide_border=true&border_radius=12&title_color=0969DA&text_color=1F6F8B&icon_color=0969DA" />
+<img width="47%" src="https://streak-stats.demolab.com?user=BEOMJIN754&theme=default&hide_border=true&border_radius=12&ring=0969DA&fire=0969DA&currStreakNum=0969DA&sideNums=0969DA&currStreakLabel=0969DA&sideLabels=0969DA&dates=1F6F8B" />
+<img width="47%" src="https://github-readme-stats.vercel.app/api?username=BEOMJIN754&show_icons=true&theme=default&hide_border=true&border_radius=12&title_color=0969DA&text_color=1F6F8B&icon_color=0969DA" />
 
 </div>
 
