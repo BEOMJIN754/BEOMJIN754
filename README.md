@@ -27,7 +27,7 @@
   * 실시간 뉴스 수집·분석 기반 팩트체크 서비스를 개발.
   * `Spring Boot` `Kafka` `Avro` `Redis` `Kubernetes` `AWS ECR` `GitHub Actions`
 
-* SWContest - AI 영화 해석 커뮤니티 서비스
+* Fillmate - AI 영화 해석 커뮤니티 서비스
   * Kafka와 WebSocket을 활용해 실시간 채팅 구조와 메시지 저장 기능을 구현.
   * `Spring Boot` `WebSocket` `Kafka` `Zookeeper` `MongoDB` `Docker` `AWS EC2`
 
@@ -43,7 +43,7 @@
   * Orbit - 외국인 재학생을 위한 STT · LLM 기반 학습 지원 서비스
 
 🏆 2025 교내 창의적SW프로그램경진대회 우수상
-  * AI 영화 해석 커뮤니티 서비스 - Kafka 기반 실시간 채팅 구조 구현
+  * Fillmate - AI 영화 해석 커뮤니티 서비스 (Kafka 기반 실시간 채팅 구조 구현)
 
 ---
 
