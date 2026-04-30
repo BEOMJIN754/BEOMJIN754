@@ -70,11 +70,11 @@
 
 ---
 
-### Activity 🐾
+### Activity 🌱
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BEOMJIN754&theme=github" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=BEOMJIN754&theme=transparent&hide_border=true&border_radius=16" />
 
 </div>
 
