@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Backend+Developer;Java+%26+Spring+Boot;Building+reliable+server+systems" />
 
 ## 안녕하세요😄 이범진입니다.
 
