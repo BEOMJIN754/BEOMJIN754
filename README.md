@@ -76,7 +76,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=깃허브아이디&theme=tokyonight&hide_border=true&border_radius=12" />
+<img src="https://streak-stats.demolab.com?user=BEOMJIN754&theme=tokyonight&hide_border=true&border_radius=12" />
 
 </div>
 
