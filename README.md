@@ -10,13 +10,13 @@
 
 ### Organization history 🎇
 
-* 멋쟁이사자처럼 13기 대표 `(2025.01 ~ 2025.12)`
+* 전국 IT 연합동아리 멋쟁이사자처럼 13기 대표 `(2025.01 ~ 2025.12)`
   * Java · Spring Boot 교육 세션 운영과 동아리 조직 운영 담당.
 
 * 어흥콘 운영위원회 총무팀 `(2025.06 ~ 2025.09)`
-  * 9개 대학 · 150여 명 규모 연합 IT 행사의 일정과 예산 운영 담당.
+  * 9개 대학 · 150여 명 규모 연합 IT 행사의 기획,일정과 예산 운영 담당.
 
-* 멋쟁이사자처럼 12기 백엔드파트 일원 `(2024.01 ~ 2024.12)`
+* 전국 IT 연합동아리 멋쟁이사자처럼 12기 백엔드파트 일원 `(2024.01 ~ 2024.12)`
   * Java · Spring Boot 기반 프로젝트에서 REST API와 이미지 업로드 기능을 구현.
 
 ---
@@ -76,7 +76,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=BEOMJIN754&theme=transparent&hide_border=true&border_radius=16" />
+<img src="https://streak-stats.demolab.com?user=깃허브아이디&theme=tokyonight&hide_border=true&border_radius=12" />
 
 </div>
 
