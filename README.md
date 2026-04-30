@@ -4,16 +4,9 @@
 
 **Backend Developer**
 
-동작하는 코드에 그치지 않고,  
-구조의 이유를 고민하며 안정적인 서버를 설계합니다.
-
-<br>
-
-</div>
-
 ---
 
-### Organization history
+### Organization history🏋️‍♀️
 
 * 멋쟁이사자처럼 13기 대표 `(2025.01 ~ 2025.12)`
   * 개발 역량 강화를 목표로 교육 커리큘럼 및 조직 운영 전략 수립
@@ -32,7 +25,7 @@
 
 ---
 
-### Project history
+### Project history🎞
 
 * NOCAP - 뉴스 팩트체크 & 분석 플랫폼
   * 실시간 뉴스 수집·분석 기반 팩트체크 결과 제공 서비스
@@ -58,7 +51,7 @@
 
 ---
 
-### Award history
+### Award history🏆
 
 * 2025 교내 에듀테크 창의적 아이디어 해커톤 최우수상
   * Orbit - 외국인 재학생을 위한 STT · LLM 기반 강의 요약 및 퀴즈 서비스
@@ -97,9 +90,7 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BEOMJIN754&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BEOMJIN754&layout=compact&theme=default&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=BEOMJIN754&hide_border=true" />
 
 </div>
 
