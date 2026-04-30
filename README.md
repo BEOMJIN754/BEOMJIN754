@@ -72,12 +72,15 @@
 
 ---
 
-### Activity 🌱
-
 <div align="center">
 
-<img height="170" src="https://streak-stats.demolab.com?user=BEOMJIN754&theme=tokyonight&hide_border=true&border_radius=12" />&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=BEOMJIN754&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
+## My Contributions 🐍
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/깃허브아이디/깃허브아이디/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/깃허브아이디/깃허브아이디/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/깃허브아이디/깃허브아이디/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
