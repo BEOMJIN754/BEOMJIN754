@@ -73,7 +73,7 @@
 
 <div align="center">
 
-### <div align="center">Activity 🌱</div>
+### <div>Activity 🌱</div>
 
 <div align="center">
 
