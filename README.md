@@ -71,9 +71,7 @@
 
 ---
 
-<div align="center">
-
-### <div>Activity 🌱</div>
+### Activity 🌱
 
 <div align="center">
 
