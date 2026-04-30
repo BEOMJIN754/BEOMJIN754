@@ -4,60 +4,46 @@
 
 **Backend Developer**
 
+</div>
+
 ---
 
-### Organization history🏋️‍♀️
+### Organization history 🏋️‍♀️
 
 * 멋쟁이사자처럼 13기 대표 `(2025.01 ~ 2025.12)`
-  * 개발 역량 강화를 목표로 교육 커리큘럼 및 조직 운영 전략 수립
-  * Java · Spring Boot 기반 백엔드 세션 주도 및 강의 진행
-  * 모집 랜딩페이지 기획·개발을 통해 1,300회 조회수, 59명 신규 회원 유입 달성
+  * Java · Spring Boot 교육 세션 운영과 동아리 조직 운영 담당.
 
 * 어흥콘 운영위원회 총무팀 `(2025.06 ~ 2025.09)`
-  * 9개 대학 · 150여 명 규모 연합 IT 행사 운영
-  * 행사 예산 수립 및 집행, 전체 일정 운영 관리
-  * 기업 스폰서 유치 활동을 통해 5개 기업 후원 확보
+  * 9개 대학 · 150여 명 규모 연합 IT 행사의 일정과 예산 운영 담당.
 
-* 멋쟁이사자처럼 12기 백엔드 `(2024.01 ~ 2024.12)`
-  * Java · Spring Boot 기반 백엔드 개발 경험 축적
-  * RESTful API 설계 및 CRUD 기능 구현
-  * AWS S3 연동 이미지 업로드 및 저장 기능 구현
+* 멋쟁이사자처럼 12기 백엔드파트 일원 `(2024.01 ~ 2024.12)`
+  * Java · Spring Boot 기반 프로젝트에서 REST API와 이미지 업로드 기능을 구현.
 
 ---
 
-### Project history🎞
+### Project history 🎞
 
 * NOCAP - 뉴스 팩트체크 & 분석 플랫폼
-  * 실시간 뉴스 수집·분석 기반 팩트체크 결과 제공 서비스
-  * Kafka 기반 이벤트 드리븐 아키텍처 적용
-  * Kubernetes 환경에서 Helm 차트 기반 배포 자동화
+  * 실시간 뉴스 수집·분석 기반 팩트체크 서비스를 개발.
   * `Spring Boot` `Kafka` `Avro` `Redis` `Kubernetes` `AWS ECR` `GitHub Actions`
 
 * SWContest - AI 영화 해석 커뮤니티 서비스
-  * AI 기반 영화 해석 커뮤니티 서비스에서 실시간 채팅 기능 설계·구현
-  * WebSocket 단독 구조에서 발생할 수 있는 메시지 유실 및 서버 부하 문제를 Kafka + Zookeeper 기반 비동기 메시지 브로커 구조로 개선
-  * Producer → Consumer → WebSocket 브로드캐스트 흐름 설계
-  * MongoDB 기반 채팅 내역 저장 및 시간 기준·ID 기준 페이징 전략 구현
-  * Docker 멀티스테이지 빌드 및 EC2 자동 배포 파이프라인 구축
+  * Kafka와 WebSocket을 활용해 실시간 채팅 구조와 메시지 저장 기능을 구현.
   * `Spring Boot` `WebSocket` `Kafka` `Zookeeper` `MongoDB` `Docker` `AWS EC2`
 
 * Orbit - 외국인 재학생을 위한 에듀테크 서비스
-  * 외국인 재학생의 강의 이해와 학교 생활 정보 탐색을 돕는 에듀테크 서비스
-  * Docker 멀티스테이지 빌드로 백엔드 서버 컨테이너화
-  * AWS ECR 이미지 push 및 EC2 자동 배포 CI/CD 파이프라인 구축
-  * Amazon RDS(MySQL) 기반 데이터베이스 환경 구성
-  * OpenAI API 연동을 통한 STT · LLM 기반 강의 실시간 요약 및 퀴즈 기능 지원
+  * STT · LLM 기반 강의 요약 및 퀴즈 기능을 제공하는 에듀테크 서비스를 개발.
   * `Spring Boot` `MySQL` `AWS RDS` `AWS ECR` `EC2` `Docker` `OpenAI API`
 
 ---
 
-### Award history🏆
+### Award history 🏆
 
 * 2025 교내 에듀테크 창의적 아이디어 해커톤 최우수상
-  * Orbit - 외국인 재학생을 위한 STT · LLM 기반 강의 요약 및 퀴즈 서비스
+  * Orbit - 외국인 재학생을 위한 STT · LLM 기반 학습 지원 서비스
 
 * 2025 교내 창의적SW프로그램경진대회 우수상
-  * AI 영화 해석 커뮤니티 서비스 - Kafka 기반 실시간 채팅 구조 및 배포 파이프라인 구현
+  * AI 영화 해석 커뮤니티 서비스 - Kafka 기반 실시간 채팅 구조 구현
 
 ---
 
@@ -86,11 +72,11 @@
 
 ---
 
-### Activity
+### Activity 🐾
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=BEOMJIN754&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BEOMJIN754&theme=github" />
 
 </div>
 
