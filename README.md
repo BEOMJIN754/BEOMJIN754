@@ -75,11 +75,7 @@
 
 ### Activity 🌱
 
-<img src="https://github-profile-trophy.vercel.app/?username=BEOMJIN754&theme=flat&no-frame=true&row=1&column=6" />
-
-<br/><br/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BEOMJIN754&layout=compact&hide_border=true&title_color=0969DA&text_color=1F6F8B" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BEOMJIN754&layout=compact&hide_border=true&title_color=0969DA&text_color=1F6F8B&bg_color=FFFFFF" />
 
 </div>
 
