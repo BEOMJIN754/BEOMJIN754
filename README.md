@@ -75,8 +75,8 @@
 
 ### Activity 🌱
 
-<img width="47%" src="https://streak-stats.demolab.com?user=BEOMJIN754&theme=default&hide_border=true&border_radius=12&ring=0969DA&fire=0969DA&currStreakNum=0969DA&sideNums=0969DA&currStreakLabel=0969DA&sideLabels=0969DA&dates=1F6F8B" />
-<img width="47%" src="https://github-readme-stats.vercel.app/api?username=BEOMJIN754&show_icons=true&theme=default&hide_border=true&border_radius=12&title_color=0969DA&text_color=1F6F8B&icon_color=0969DA" />
+<img height="170" src="https://streak-stats.demolab.com?user=BEOMJIN754&amp;theme=default&amp;hide_border=true&amp;border_radius=12&amp;ring=0969DA&amp;fire=0969DA&amp;currStreakNum=0969DA&amp;sideNums=0969DA&amp;currStreakLabel=0969DA&amp;sideLabels=0969DA&amp;dates=1F6F8B&amp;background=FFFFFF" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=BEOMJIN754&amp;show_icons=true&amp;hide_border=true&amp;border_radius=12&amp;title_color=0969DA&amp;text_color=1F6F8B&amp;icon_color=0969DA&amp;bg_color=FFFFFF" />
 
 </div>
 
