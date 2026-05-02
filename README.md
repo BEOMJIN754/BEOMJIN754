@@ -71,16 +71,6 @@
 
 ---
 
-<div align="center">
-
-### Activity 🌱
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BEOMJIN754&amp;theme=github-light&amp;hide_border=true&amp;area=true&amp;color=0969DA&amp;line=0969DA&amp;point=0969DA" />
-
-</div>
-
----
-
 ### Contact
 
 <p>
