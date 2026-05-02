@@ -75,7 +75,7 @@
 
 ### Activity 🌱
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BEOMJIN754&layout=compact&hide_border=true&title_color=0969DA&text_color=1F6F8B&bg_color=FFFFFF" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BEOMJIN754&amp;theme=github-light&amp;hide_border=true&amp;area=true&amp;color=0969DA&amp;line=0969DA&amp;point=0969DA" />
 
 </div>
 
